@@ -1,4 +1,4 @@
-# Manufacturing Line Analysis: Bottleneck Identification & Process-Parameter Sensitivity Study
+# Manufacturing Line Analysis: Vehicle-component manufacturing line
 
 A discrete-event simulation of a 4-stage vehicle-component manufacturing line 
 (Machining → Sub-Assembly → Final Assembly → Inspection), built to:
